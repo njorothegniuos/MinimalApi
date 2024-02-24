@@ -13,6 +13,7 @@ namespace MinimalApi.Controllers
 
         public static async Task<IResult> Process(CancellationToken cancellationToken)
         {
+            Serilog.Log.Information("Request received!");
             return Results.Ok("Request received!");
         }
     }
