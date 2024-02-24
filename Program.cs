@@ -1,7 +1,8 @@
 using Carter;
 
 var builder = WebApplication.CreateBuilder(args);
-
+// Add Carter services
+builder.Services.AddCarter();
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
