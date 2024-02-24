@@ -1,0 +1,7 @@
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.csproj.AssemblyReference.cache
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.AssemblyInfoInputs.cache
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.AssemblyInfo.cs
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.csproj.CoreCompileInputs.cache
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Sam\Code\2024\MinimalApi\MinimalApi\obj\Debug\net7.0\MinimalApi.MvcApplicationPartsAssemblyInfo.cache
